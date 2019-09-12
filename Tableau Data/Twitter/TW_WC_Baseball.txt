@@ -1,0 +1,10 @@
+game	536
+mlb	458
+season	449
+first	420
+baseball	400
+last	316
+day	297
+win	289
+home	281
+games	277

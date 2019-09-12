@@ -1,0 +1,10 @@
+dhoni	714
+match	549
+captain	412
+win	407
+team	372
+ipl	321
+umpire	304
+csk	295
+umpires	253
+world	218

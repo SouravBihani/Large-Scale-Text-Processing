@@ -1,0 +1,10 @@
+two	714
+team	669
+football	621
+super	541
+players	533
+game	517
+sports	473
+league	460
+bowl	454
+time	434

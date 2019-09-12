@@ -1,0 +1,3 @@
+connecting to the itunes store....
+            we are unable to find itunes on your computer.
+           if you don't have itunes, download it for free. if you have itunes and it doesn't open automatically, try opening it from your dock or windows task bar.

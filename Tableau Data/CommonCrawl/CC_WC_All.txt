@@ -1,0 +1,10 @@
+sky	6168
+fifa	3952
+football	2535
+world	2433
+sports	2230
+one	2026
+account	1748
+first	1640
+last	1531
+new	1523

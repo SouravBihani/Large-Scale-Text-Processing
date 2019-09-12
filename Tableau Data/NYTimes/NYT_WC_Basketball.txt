@@ -1,0 +1,10 @@
+one	21
+copyright	21
+davis	15
+pelicans	14
+orleans	14
+even	14
+way	13
+video	12
+people	12
+game	12

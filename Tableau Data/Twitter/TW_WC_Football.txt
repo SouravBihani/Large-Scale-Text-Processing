@@ -1,0 +1,10 @@
+football	14982
+messi	11294
+fifa	9490
+fbi	4105
+league	3616
+team	3556
+champions	3308
+game	3067
+que	2739
+real	2534

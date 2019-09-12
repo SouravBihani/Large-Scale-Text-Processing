@@ -1,0 +1,10 @@
+game	535
+nhl	464
+picks	354
+free	334
+last	329
+win	327
+team	325
+hockey	305
+playoff	279
+play	278

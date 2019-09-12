@@ -1,0 +1,10 @@
+nba	7297
+harden	3407
+one	2207
+history	1958
+shots	1865
+disrespectful	1849
+game	1567
+best	868
+playoffs	701
+james	691

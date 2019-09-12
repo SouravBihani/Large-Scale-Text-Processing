@@ -1,0 +1,10 @@
+football	15025
+messi	11294
+fifa	9495
+nba	7442
+game	5859
+one	5191
+team	4818
+fbi	4105
+win	3956
+league	3929

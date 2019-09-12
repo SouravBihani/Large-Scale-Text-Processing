@@ -1,0 +1,10 @@
+one	124
+people	97
+two	75
+many	65
+indian	52
+pakistan	51
+cricket	48
+years	45
+india	45
+time	44

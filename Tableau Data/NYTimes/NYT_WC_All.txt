@@ -1,0 +1,10 @@
+new	1911
+one	1669
+first	1217
+two	1152
+last	1130
+team	1005
+football	908
+players	852
+game	765
+people	736
